@@ -1,0 +1,22 @@
+{
+    "key": "ui_options_page_654bf4d98e320",
+    "title": "Staff Directory Global Settings",
+    "active": true,
+    "menu_order": 0,
+    "page_title": "Staff Directory Global Settings",
+    "menu_slug": "staff-directory-global-settings",
+    "parent_slug": "options-general.php",
+    "advanced_configuration": 1,
+    "icon_url": "",
+    "menu_title": "",
+    "position": "",
+    "redirect": false,
+    "description": "",
+    "update_button": "Update",
+    "updated_message": "Options Updated",
+    "capability": "edit_posts",
+    "data_storage": "options",
+    "post_id": "",
+    "autoload": 0,
+    "modified": 1709076588
+}
